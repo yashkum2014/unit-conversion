@@ -1,1 +1,2 @@
 # unit-conversion
+a Unit Conversion Calculator using HTML, CSS, and JavaScript. The calculator supports conversions between various units such as temperature, weight, distance. It features a responsive user interface for better accessibility and includes basic validation to ensure correct input handling. The JavaScript logic is optimized for efficient calculations, making the tool reliable and user-friendly. This version is fully functional and ready for further improvements and enhancements. 
